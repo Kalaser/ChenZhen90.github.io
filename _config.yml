@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://ChenZhen90.github.io'
-baseurl:          '/ChenZhen90.github.io'
+url:              'https://ChenZhenblog90.github.io'
+baseurl:          '/ChenZhenblog90.github.io'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
