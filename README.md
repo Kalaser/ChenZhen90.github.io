@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: ChenZ-Blog-Book
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+Make Jelly site have a ChenZ-Blog-Book!
 
 ## Demo
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+ChenZ-Blog-Book on Github Pages: [https://github.com/Kalaser/ChenZhenblog90.github.io](https://github.com/Kalaser/ChenZhenblog90.github.io)
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
